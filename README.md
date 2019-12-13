@@ -1,4 +1,5 @@
-# TeamSpark is working of a machine lerning recruiting we app.
+# TeamSpark is working on a machine lerning recruiting assitance web app.
+it helps HR/company to recruit rightly.
 
 #what it works does
 
