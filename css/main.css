@@ -1,0 +1,37 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+}
+.navbar{
+    background-color:black;
+    margin: 0px;
+
+}
+.logo{
+    color: white;
+    font-family: monospace;
+    font-size: 25px;
+}
+.logo1{
+    color:skyblue;
+    font-size: 28px;
+}
+img{
+    margin: 0px;
+}
+.jumbotron{
+    background: white;
+    color: lightgreen;
+    font-size: 20px;
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: skyblue;
+   color: black;
+   text-align: center;
+    margin-bottom: 0px;
+}
